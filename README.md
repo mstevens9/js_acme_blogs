@@ -16,6 +16,8 @@ It's ok. Go back and make corrections. Then check your score again!
 
 When you are ready to submit your work, follow the instructions that are at the top of the score page.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f105c8c7-c734-42ce-a009-677b8bf58280/deploy-status)](https://app.netlify.com/sites/frolicking-cupcake-bded51/deploys)
+
 ### Academic Honesty
 
 **DO NOT COPY** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
